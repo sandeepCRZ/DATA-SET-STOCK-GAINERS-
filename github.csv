@@ -1,4 +1,4 @@
-Company CurrentPrice PrevCloseDate Change Change %Week'sLow/High
+Company,CurrentPrice,PrevCloseDate,Change,Change,%Week'sLow/High
 Vedanta	292.60	269.2520-08-2021	23.35	8.67%	261.00\r\n 295.30
 Hindalco	437.90	403.6520-08-2021	34.25	8.49%	399.50\r\n 439.00
 Bajaj Finserv	16195.60	14978.5520-08-2021	1217.05	8.13%	14800.05\r\n 16799.00
